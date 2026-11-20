@@ -1,0 +1,14 @@
+{
+  "name": "raptical-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Encrypted 24-hour message relay for the RaptiCaL hidden messenger",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
